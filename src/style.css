@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background: #ffffff;
+  color: #000000;
+  font-family: Arial, sans-serif;
+}
+
+.app-toolbar {
+  border: none;
+  border-bottom: 1px solid #000000;
+  border-radius: 0;
+  background: #ffffff;
+  padding: 0.5rem;
+}
+
+.app-body {
+  min-height: calc(100vh - 3rem);
+}
+
+.app-sidebar {
+  width: 14rem;
+  border-right: 1px solid #000000;
+}
+
+.app-content {
+  padding: 1rem;
+}
+
+.p-card {
+  box-shadow: none;
+  border: 1px solid #000000;
+  border-radius: 0;
+}
+
+.p-button,
+.p-button:hover,
+.p-togglebutton,
+.p-togglebutton-checked,
+.p-togglebutton-content {
+  background: #ffffff !important;
+  color: #000000 !important;
+  border-color: #000000 !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+.p-togglebutton-checked {
+  text-decoration: underline;
+}
+
+.p-select,
+.p-inputnumber-input {
+  box-shadow: none;
+  border-radius: 0;
+}
+
+* {
+  color: #000000;
+}

@@ -1,0 +1,19 @@
+{
+  "home": "Home",
+  "new-vehicle-inventory-item": "New Vehicle Inventory Item",
+  "home-content": "Premium Vehicles & Showroom Management Delivered to Your Dealership.",
+  "my-showroom-collections": "My Showroom Collections",
+  "no-vehicles": "No Vehicles",
+  "total-vehicles": "Total Vehicles",
+  "available-capacity": "Available Capacity",
+  "add-vehicle-inventory-items": "Add Vehicle Inventory Items to Your Collection",
+  "showroom-section": "Showroom Section",
+  "vehicle": "Vehicle",
+  "quantity": "Quantity",
+  "create": "Create",
+  "cancel": "Cancel",
+  "page-not-found": "Page Not Found",
+  "route-not-found": "The route {path} was not found.",
+  "go-home": "Go to Home",
+  "fields-required": "All fields are required."
+}

@@ -1,0 +1,19 @@
+{
+  "home": "Inicio",
+  "new-vehicle-inventory-item": "Nuevo item de Inventario de Vehículos",
+  "home-content": "Vehículos Premium y Gestión de Showrooms Entregados a su Concesionario.",
+  "my-showroom-collections": "Mis Colecciones de Showroom",
+  "no-vehicles": "no Vehículos",
+  "total-vehicles": "Total de Vehiculos",
+  "available-capacity": "Capacidad Disponible",
+  "add-vehicle-inventory-items": "Agregue Ítems de Inventario de Vehículos a su Colección",
+  "showroom-section": "Sección de Showroom",
+  "vehicle": "Vehiculo",
+  "quantity": "Cantidad",
+  "create": "Crear",
+  "cancel": "Cancelar",
+  "page-not-found": "Página No Encontrada",
+  "route-not-found": "La ruta {path} no fue encontrada.",
+  "go-home": "Ir a Inicio",
+  "fields-required": "Todos los campos son obligatorios."
+}
