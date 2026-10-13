@@ -16,6 +16,6 @@
   "page-not-found": "Página No Encontrada",
   "route-not-found": "La ruta {path} no fue encontrada.",
   "go-home": "Ir a Inicio",
-  "fields-required": "Todos los campos son obligatorios.",
+  "fields-required": "Todos los campos son obligatorios."
 
 }
