@@ -6,16 +6,13 @@ export class ShowroomSection {
     this.maxCapacity = maxCapacity;
   }
 
-
   calculateTotalVehicles(items) {
     return items.reduce((total, item) => total + item.quantity, 0);
   }
 
-
   calculateAvailableCapacity(items) {
     return this.maxCapacity - this.calculateTotalVehicles(items);
   }
-
 }
 
 

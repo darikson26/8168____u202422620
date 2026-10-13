@@ -6,5 +6,5 @@ Learn more about IDE Support for Vue in the Vue Docs Scaling up Guide.
 * name: Darikson Bill
 * last name: Salazar Quiche
 * Code : u202422620 
-* Github> https://github.com/darikson26/8168____u202422620.git
+* Github: https://github.com/darikson26/8168____u202422620.git
 

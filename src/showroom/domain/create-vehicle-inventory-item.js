@@ -1,8 +1,5 @@
 export class CreateVehicleInventoryItem {
 
-
-
-
   constructor({ sectionId, vehicleCategoryId, vehicleId, vehicleName, quantity }) {
     this.sectionId = sectionId;
     this.vehicleCategoryId = vehicleCategoryId;
@@ -11,8 +8,6 @@ export class CreateVehicleInventoryItem {
     this.quantity = quantity;
     this.registeredAt = new Date().toISOString();
   }
-
-
-
+  
 }
 
