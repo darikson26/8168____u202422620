@@ -26,4 +26,9 @@ export class ShowroomApi extends BaseApi {
   get showroomSectionsEndpoint() {
     return this.#showroomSectionsEndpoint;
   }
+  get showroomVehicleInventoryItemsEndpoint() {
+    return this.#vehicleInventoryItemsEndpoint;
+  }
+
+
 }

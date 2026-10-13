@@ -1,4 +1,5 @@
 {
+
   "home": "Inicio",
   "new-vehicle-inventory-item": "Nuevo item de Inventario de Vehículos",
   "home-content": "Vehículos Premium y Gestión de Showrooms Entregados a su Concesionario.",
@@ -15,5 +16,6 @@
   "page-not-found": "Página No Encontrada",
   "route-not-found": "La ruta {path} no fue encontrada.",
   "go-home": "Ir a Inicio",
-  "fields-required": "Todos los campos son obligatorios."
+  "fields-required": "Todos los campos son obligatorios.",
+
 }

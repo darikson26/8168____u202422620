@@ -1,4 +1,5 @@
 export class VehicleInventoryItemResource {
+
   constructor({ id, sectionId, vehicleCategoryId, vehicleId, vehicleName, quantity, registeredAt }) {
     this.id = id;
     this.sectionId = sectionId;
@@ -8,4 +9,5 @@ export class VehicleInventoryItemResource {
     this.quantity = quantity;
     this.registeredAt = registeredAt;
   }
+
 }

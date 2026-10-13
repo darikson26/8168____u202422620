@@ -9,5 +9,6 @@ export class VehicleInventoryItem {
     this.vehicleName = vehicleName;
     this.quantity = quantity;
     this.registeredAt = registeredAt;
+
   }
 }

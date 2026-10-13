@@ -1,7 +1,5 @@
 import { VehicleResource } from './vehicle.resource.js';
 import {Vehicle} from '../domain/vehicle.entity.js';
-import {vehicule} from "../../showroom/infrastructure/vehicle-inventory-item.resource.js";
-
 
 export class VehicleAssembler {
   static toEntityFromResource(resource) {
@@ -13,8 +11,9 @@ export class VehicleAssembler {
       return [];
     }
 
-    return response.data.products.map((product) => this.toEntityFromResource(new VehicleResource(product)));
+    return response.data.product.map((product) => this.toEntityFromResource(new VehicleResource(product)));
   }
+
 }
 
 

@@ -20,7 +20,7 @@ export class VehicleInventoryItemAssembler {
     }
 
     return response.data.map((item) => this.toEntityFromResource(new VehicleInventoryItemResource(item)));
-  }
+  } 
   static toResource(model){
 
     if(model.status !== 200){

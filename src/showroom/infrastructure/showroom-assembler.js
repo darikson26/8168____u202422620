@@ -13,6 +13,10 @@ export class ShowroomAssembler {
 
     return response.data.map((item) => this.toEntityFromResource(new ShowroomResource(item)));
   }
-
+   static toResource(model){
+    if(model.status !== 200){
+      return [];
+     }
+    }
 }
 

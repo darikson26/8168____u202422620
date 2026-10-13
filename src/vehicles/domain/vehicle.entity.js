@@ -3,5 +3,6 @@ export class Vehicle {
     this.id = id;
     this.name = name;
     this.category = category;
+
   }
 }
