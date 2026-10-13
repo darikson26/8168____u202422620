@@ -8,3 +8,6 @@ Learn more about IDE Support for Vue in the Vue Docs Scaling up Guide.
 * Code : u202422620 
 * Github: https://github.com/darikson26/8168____u202422620.git
 
+
+#subi al final mi repo , tuve fallas con los comandos del terminal de web
+
